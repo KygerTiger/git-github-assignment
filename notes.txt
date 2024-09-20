@@ -1,0 +1,2 @@
+Git is like a system that helps track changes in files
+Github is like a Cloud service that hosts the repositories online
