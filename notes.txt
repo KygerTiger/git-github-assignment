@@ -1,2 +1,6 @@
 Git is like a system that helps track changes in files
 Github is like a Cloud service that hosts the repositories online
+Branching in Git allows you to work on different versions of a project
+at the same time.
+
+
